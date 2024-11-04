@@ -44,9 +44,12 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 ## 🔗 Links Úteis
 
 - **Apresentação:** [Canva](https://www.canva.com/design/DAGUgSc5Xeg/bIGwAzZnNk_BnIZ_Y6-Tog/view?utm_content=DAGUgSc5Xeg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-- **Gamificação:** [Kahoot](https://kahoot.com)
+- **Gamificação:** [Kahoot](https://create.kahoot.it/share/haskell-e-paradigma-funcional/fdbaa161-a72e-4975-949f-c62c493b43f6)
 - **Pesquisa do Grupo:** [Google Docs](https://docs.google.com/document/d/1fd_nDBMRq9i7oJpzFQTJmiNV88tJpM1CODT30XvRZB8/edit?usp=sharing)
 - **Como rodar Haskell:** [GHCup](https://www.haskell.org/ghcup/)
+
+## 🖼️ Vencedores da Gamificação
+![Vencedores](content/vencedores.JPEG)
 
 ## 📚 Referências
 - [Universidade Federal de Uberlândia](https://periodicos.ufsc.br/index.php/revistacfh/article/download/2178-4582.2011v45n2p345/22356/82976#:~:text=Para%20Kuhn%2C%20o%20conhecimento%20cient%C3%ADfico,de%20e%20os%20seus%20eventos)
