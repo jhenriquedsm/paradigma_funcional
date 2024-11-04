@@ -43,6 +43,7 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 
 ## 🔗 Links Úteis
 
+- **Apresentação:** [Canva](https://www.canva.com/design/DAGUgSc5Xeg/bIGwAzZnNk_BnIZ_Y6-Tog/view?utm_content=DAGUgSc5Xeg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 - **Gamificação:** [Kahoot](https://kahoot.com)
 - **Pesquisa do Grupo:** [Google Docs](https://docs.google.com/document/d/1fd_nDBMRq9i7oJpzFQTJmiNV88tJpM1CODT30XvRZB8/edit?usp=sharing)
 - **Como rodar Haskell:** [GHCup](https://www.haskell.org/ghcup/)
@@ -66,4 +67,9 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 - [Portal Desenvolvedor - Haskell](https://portaldesenvolvedor.com/blog/haskell-conheca-a-linguagem/)
 - [Meta - Combatendo Spam com Haskell](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)
 - [Haskell.org](http://www.haskell.org/)
+- [Glasgow Haskell Compiler](https://pt.wikipedia.org/wiki/Glasgow_Haskell_Compiler)
+- [GHC - Haskell.org](https://www.haskell.org/ghc/)
+- [LLVM Compiler](https://llvm.org)
+- [5 Reasons to Learn Haskell](https://www.emurgo.io/press-news/5-reasons-to-learn-haskell-blockchain/)
+- [The Basics of Haskell, Plutus, and Marlowe (Cardano)](https://www.emurgo.io/press-news/the-basics-of-haskell-plutus-and-marlowe-cardano/)
 - [Functional Programming & Haskell](https://www.youtube.com/watch?v=LnX3B9oaKzw)
