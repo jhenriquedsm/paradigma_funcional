@@ -11,7 +11,7 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 - 👤 José Henrique | RGM: 30525187
 - 👤 Julio Augusto | RGM: 30132401
 - 👤 Lucas Pereira | RGM: 30176701
-- 👤 Pedro Samuel | RGM: 29697000
+- 👤 Pedro Samuel  | RGM: 29697000
 
 ## 📅 Data da Apresentação
 - Paradigma Funcional (Grupo Preto): 04/11/2024
