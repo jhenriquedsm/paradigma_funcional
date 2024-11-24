@@ -16,7 +16,7 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 ## 📅 Data da Apresentação
 - Paradigma Funcional (Grupo Preto): 04/11/2024
 
-## 📘 Paradigma Funcional
+## 📘 Paradigma Funcional 
 - 📖 **Definição**: Programação funcional é um paradigma declarativo que trata a computação como uma avaliação de funções matemáticas, evitando estados mutáveis e enfatizando a aplicação de funções.
 - 🔄 **Evolução**: Baseado no Cálculo Lambda de Alonzo Church, o paradigma funcional originou-se na década de 1930 e influenciou o desenvolvimento de linguagens como LISP. Nos anos 1980, houve grande avanço e popularização com a criação de novas linguagens funcionais, como Haskell.
 - 🔑 **Características**:
